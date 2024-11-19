@@ -6,7 +6,7 @@
 
   <groupId>in.spankir</groupId>
   <artifactId>my-app1</artifactId>
-  <version>1.0-RELEASE</version>
+  <version>2.0-RELEASE</version>
   <packaging>war</packaging>
 
   <name>my-app1 Maven Webapp</name>
